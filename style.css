@@ -1,0 +1,40 @@
+img {
+    width: 300px;
+    height: 300px;
+    justify-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    border-width: 3px;
+    border-style: groove;
+    border-color: azure;
+    background-color: aqua;
+    text-align: center;
+    color: coral;
+    font-family: 'Cambria';
+}
+
+h3 {
+    margin-left: 100px;
+    font-family: 'Georgia';
+    color: rgb(15, 168, 224);
+}
+
+body {
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    background-color: rgb(92, 49, 122);
+}
+
+iframe {
+    width: 440px;
+    height: 280px;
+}
+
+p {
+    color: white;
+}
